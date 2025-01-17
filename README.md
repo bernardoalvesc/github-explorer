@@ -8,7 +8,6 @@ Este projeto é uma aplicação que permite explorar repositórios do GitHub de 
 
 - Sobre
 - Tecnologias Utilizadas
-- Estrutura do Projeto
 - Funcionalidades
 - Contato
 
