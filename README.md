@@ -1,4 +1,4 @@
-# 🔍 GitHub Explorer
+# 🐈 GitHub Explorer
 
 Aplicação React que permite buscar e visualizar repositórios do GitHub em tempo real. Desenvolvida com React, TypeScript, Vite e TailwindCSS para uma experiência moderna, rápida e responsiva.
 
